@@ -1,0 +1,124 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.Which of the following does not show any interference pattern?",
+      "answers": {
+        "a": "Soap bubble",
+        "b": "Excessively thin film",
+        "c": "A thick film",
+        "d": "Wedge Shaped film"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 1  <a href='www.google.com'>here</a> - Excessively thin films do not show interference because their thickness is negligible compared to the wavelength of light.",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.The main principle used in Interference is _____________",
+      "answers": {
+        "a": "Heisenberg’s Uncertainty Principle",
+        "b": "Superposition Principle",
+        "c": "Quantum Mechanics",
+        "d": "Fermi Principle"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 1  <a href='www.google.com'>here</a> - Interference patterns are a result of the superposition of light waves.",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.When Two waves of same amplitude add constructively, the intensity becomes _____________",
+      "answers": {
+        "a": "Double",
+        "b": "Half",
+        "c": "Four Times",
+        "d": "One-Fourth"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 2",
+        "c": "Explanation 1  <a href='www.google.com'>here</a> - Constructive interference results in an intensity that is the square of the amplitude, making it four times greater.",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.When Newton's rings interference pattern is viewed from above by means of reflected light , the central spot is -",
+      "answers": {
+        "a": "Dark",
+        "b": "Bright",
+        "c": "Multicoloured",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='https://quizizz.com/admin/quiz/609509fc2cdee7001be90d35/wedge-shaped-films-newtons-rings-experiment'>here</a> - The central spot is dark due to destructive interference at the center.",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5.In Newton's ring experiments , the diameter of dark rings is proportional to",
+      "answers": {
+        "a": "Odd natural number",
+        "b": "Square roots of odd natural numbers",
+        "c": "Even natural number",
+        "d": "Square root of natural number"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 1  <a href='https://quizizz.com/admin/quiz/609509fc2cdee7001be90d35/wedge-shaped-films-newtons-rings-experiment'>here</a> - The diameter of dark rings is proportional to the square root of natural numbers.",
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      }
+    },
+    {
+      "question": "6.Which phenomenon is observed when light waves bend around obstacles?",
+      "answers": {
+        "a": "Reflection",
+        "b": "Refraction",
+        "c": "Diffraction",
+        "d": "Polarization"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 2",
+        "c": "Explanation 1 - Diffraction occurs when light bends around an obstacle or passes through a narrow opening, creating interference patterns.",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7.What is the relationship between wavelength and frequency of a wave?",
+      "answers": {
+        "a": "They are directly proportional",
+        "b": "They are inversely proportional",
+        "c": "They are unrelated",
+        "d": "They are equal"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 1 - Wavelength and frequency are inversely proportional as their product equals the speed of the wave.",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
