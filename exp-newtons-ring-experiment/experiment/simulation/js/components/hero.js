@@ -7,8 +7,7 @@ function createHero() {
             <div class="hero-content">
                 <h1 class="hero-title">Newtons Ring Experiment</h1>
                 <p class="hero-description">
-                    Precision engineering meets innovative technology in our Micro Combi Tester.
-                    Discover unparalleled accuracy in indentation and scratch testing.
+                    
                 </p>
                 <div class="hero-buttons">
                     <a href="#simulation" class="btn btn-primary">

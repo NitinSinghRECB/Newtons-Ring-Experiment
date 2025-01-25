@@ -118,6 +118,37 @@ class Simulation {
     <image id="stand6"  width="155" height="512" transform="translate(562.0 104) scale(.6)" xlink:href="newton ring-14.png"/>
   </g>
 </svg>
+<div class="circle">
+<svg><?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 612 792">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+    */{
+   height:100px;
+   }
+      .st0 {
+        stroke-width: 20px;
+      }
+
+      .st0, .st1 {
+        fill: #fff;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        height:50000000px;
+      }
+
+      .st1 {
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <circle class="st1" cx="306.67" cy="269.33" r="85.02"/>
+  <circle class="st1" cx="306.67" cy="269.33" r="67.73"/>
+  <circle class="st1" cx="306.67" cy="269.33" r="47.97"/>
+  <circle class="st1" cx="306.67" cy="269.33" r="29.13"/>
+  <circle class="st0" cx="306" cy="269.33" r="7.01"/>
+</svg></div>
                            
 
           <!-- Separate div for the button and dropdown menu -->

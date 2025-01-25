@@ -386,9 +386,20 @@
                                               margin: 20px auto;
                                           }
                                           /* Ensure the stand image maintains its size and fixed Y-position */
-                                          
+                                          .circle{
+                                            position: absolute; /* Or fixed */
+                                            top: 50px;
+                                            left: 10px;
+                                            
+                                          }
                                           @media (max-width: 768px) {
                                               .simulation-grid {
                                                   grid-template-columns: 1fr;
                                               }
                                           }
+
+
+
+
+
+                                          
